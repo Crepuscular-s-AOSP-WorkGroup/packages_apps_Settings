@@ -373,7 +373,7 @@
     <bool name="config_show_touch_sounds">true</bool>
 
     <!-- Whether encryption_and_credentials_encryption_status should be shown or not. -->
-    <bool name="config_show_encryption_and_credentials_encryption_status">true</bool>
+    <bool name="config_show_encryption_and_credentials_encryption_status">false</bool>
 
     <!-- Whether premium_sms should be shown or not. -->
     <bool name="config_show_premium_sms">true</bool>
